@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MindMaze Rewards",
+  "description": "An engaging puzzle-based game where users solve logic patterns to earn virtual rewards and track their progress through a comprehensive wallet and withdrawal system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
